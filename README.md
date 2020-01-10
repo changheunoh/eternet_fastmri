@@ -6,6 +6,7 @@ You can use the [editor on GitHub](https://github.com/changheunoh/eternet_fastmr
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
 ### abstract
 
 some abstract
@@ -18,6 +19,8 @@ If you want to embed images, this is how you do it:
 
 
 ### Download link
+
 paper link : arxiv [url](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
+
 trained weight, input data, and label: [link](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
 
