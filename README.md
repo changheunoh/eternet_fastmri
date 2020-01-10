@@ -17,3 +17,7 @@ If you want to embed images, this is how you do it:
 ![Image of FastMRI](fastmri.png)
 
 
+### Download link
+
+trained weight, input data, and label: [link](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
+
