@@ -1,6 +1,6 @@
 ## ETER-net: An end-to-end reconstruction network for MRI using recurrent neural network
 
-paper link : arxiv [url](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
+
 
 You can use the [editor on GitHub](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,6 +18,6 @@ If you want to embed images, this is how you do it:
 
 
 ### Download link
-
+paper link : arxiv [url](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
 trained weight, input data, and label: [link](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
 
