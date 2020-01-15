@@ -1,4 +1,4 @@
-## ETER-net: An <span style="color:blue">some *blue* text</span>End-To-End reconstruction network for MRI using Recurrent neural network
+## ETER-net: An *E*nd-*T*o-*E*nd reconstruction network for MRI using *R*ecurrent neural network
 
 
 
