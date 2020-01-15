@@ -18,14 +18,14 @@ trained weight, input data, and label: [link](https://github.com/changheunoh/ete
 
 ### Image
 
-Example reconstructions
+
 
 ![Image of FastMRI](fastmri.png)
 
 
 ### Table
 
-Quantitative analysis
+
 
 Case | nMSE (%)  | SSIM
 ------------ | ------------------------- | -------------
