@@ -1,12 +1,6 @@
 ## ETER-net: An *E*nd-*T*o-*E*nd reconstruction network for MRI using *R*ecurrent neural network
 
 
-
-You can use the [editor on GitHub](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
 ### Abstract
 
 
