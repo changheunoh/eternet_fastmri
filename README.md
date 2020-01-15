@@ -13,7 +13,7 @@ We validated our method by applying it to a public dataset called 'FastMRI'. [fa
 
 paper link : arxiv [url](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
 
-trained weight, input data, and label: [link](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
+trained weight, input data, and label: [link](https://drive.google.com/drive/folders/1jaKZ-J5sdypCoggGO8cIGWh3rsSemF0I?usp=sharing)
 
 
 ### Image
