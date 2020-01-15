@@ -9,14 +9,14 @@ We validated our method by applying it to a public dataset called 'FastMRI'. [fa
 
 ### Image
 
-Example reconstructions. 
+Example reconstructions
 
 ![Image of FastMRI](fastmri.png)
 
 
 ### Table
 
-
+Quantitative analysis
 
 Case | nMSE (%)  | SSIM
 ------------ | ------------------------- | -------------
