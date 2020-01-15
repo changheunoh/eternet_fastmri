@@ -9,7 +9,7 @@ We validated our method by applying it to a public dataset called 'FastMRI'. [fa
 
 ### Image
 
-If you want to embed images, this is how you do it:
+Example reconstructions. 
 
 ![Image of FastMRI](fastmri.png)
 
@@ -19,4 +19,7 @@ If you want to embed images, this is how you do it:
 paper link : arxiv [url](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
 
 trained weight, input data, and label: [link](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
+
+[edit](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)
+
 
