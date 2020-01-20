@@ -12,7 +12,7 @@ We validated our method by applying it to a public dataset called 'FastMRI'. [[l
 
 
 
-### Download link
+### Links
 
 paper link : <!---  [arxiv_link](https://github.com/changheunoh/eternet_fastmri/edit/master/README.md)  -->
 
