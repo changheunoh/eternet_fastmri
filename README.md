@@ -22,7 +22,7 @@ trained weight, input data, and label: [[link](https://drive.google.com/drive/fo
 
 
 
-![Image of network](network.png)
+![Image of network](model.png)
 
 
 ### Image
