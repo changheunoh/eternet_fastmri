@@ -18,6 +18,12 @@ paper link : <!---  [arxiv_link](https://github.com/changheunoh/eternet_fastmri/
 
 trained weight, input data, and label: [[link](https://drive.google.com/drive/folders/1jaKZ-J5sdypCoggGO8cIGWh3rsSemF0I?usp=sharing)]
 
+### Network
+
+
+
+![Image of network](network.png)
+
 
 ### Image
 
