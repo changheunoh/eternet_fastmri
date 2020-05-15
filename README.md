@@ -32,16 +32,6 @@ trained weight, input data, and label: [[link](https://drive.google.com/drive/fo
 ![Image of FastMRI](fastmri.png)
 
 
-### Table
-
-
-
-Case | nMSE (%)  | SSIM
------------- | ------------------------- | -------------
-knee R=4 | 0.84 ± 0.96  | 0.966 ± 0.037 
-knee R=8 | 1.58 ± 0.98  | 0.931 ± 0.038
-brain R=4 | 1.19 ± 0.62  | 0.910 ± 0.018
-brain R=8 | 5.12 ± 0.85  | 0.854 ± 0.029
 
 
 
